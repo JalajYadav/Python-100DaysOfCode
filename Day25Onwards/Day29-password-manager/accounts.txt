@@ -1,0 +1,5 @@
+bombaySite | jalayadav@gmail.com | passBom
+delhiCorona | jalayadav@gmail.com | noCollege
+CleverProgrammer | jalayadav@gmail.com | javascript
+AppBrewary | jalayadav@gmail.com | django
+mango | jalayadav@gmail.com | mongoIceCream
